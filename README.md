@@ -1,2 +1,2 @@
 # gitarf
-This repo will contain the basic of git repository creation .I am presenting first repo
+This repo will contain the basic of git repository creation .<br>I am presenting first repo
